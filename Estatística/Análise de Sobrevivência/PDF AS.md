@@ -1,0 +1,1 @@
+A função de densidade de probabilidade ([[PDF]]) na análise de sobrevivência descreve o comportamento de uma [[Variável aleatória]] contínua.

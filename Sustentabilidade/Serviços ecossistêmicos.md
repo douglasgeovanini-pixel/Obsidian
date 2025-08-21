@@ -1,0 +1,1 @@
+Os serviços ecossistêmicos são os benefícios que os [[ecossistema]] proporcionam à sociedade, de forma direta ou indireta, para manter, melhorar ou recuperar as condições ambientais. São essenciais para a vida no planeta e para a qualidade de vida das pessoas, mesmo que não tenham um valor de mercado atribuído.

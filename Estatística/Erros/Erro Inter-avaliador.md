@@ -1,0 +1,1 @@
+Quando a repetição se dá por avaliadores diferentes chamamos “erro inter-avaliador”. A condição básica para a avaliação do erro é que a repetição da medida deve se dar nas mesmas condições.

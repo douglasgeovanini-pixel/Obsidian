@@ -1,0 +1,1 @@
+Ondas emitas pelo sol, em sua maioria ondas curtas, que viajam a velocidade da luz e são recebidas por diversos objetos, como o planeta terra.

@@ -1,0 +1,1 @@
+Distância vertical do local considerado em relação ao nível da superfície do mar

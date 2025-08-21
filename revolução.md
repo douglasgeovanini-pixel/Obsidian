@@ -1,0 +1,1 @@
+ **Revolução** do latim _revolutìo, ónis_, "ato de revolver" é uma mudança abrupta e duradoura, um ponto de ruptura social, política, cientifica e ou tecnológica.

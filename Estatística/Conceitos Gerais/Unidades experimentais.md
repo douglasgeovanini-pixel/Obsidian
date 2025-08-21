@@ -1,0 +1,1 @@
+Uma unidade experimental ou uma parcela experimental é a unidade, indivíduo ou elemento que recebe a aplicação de um [[Tratamento]], geralmente determinada pela própria natureza do material experimental, constituindo a menor subdivisão do material experimental a qual é aplicado o tratamento.

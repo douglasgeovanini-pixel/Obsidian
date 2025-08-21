@@ -1,0 +1,1 @@
+ São poços não controlados, não regulamentados, os quais muito pouco se diferenciam de buracos de onde se tira água. Sem a devida análise, não dá para se saber a [[qualidade da água]], não se sabe nada sobre a potabilidade e se a estrutura é ou não adequado. 

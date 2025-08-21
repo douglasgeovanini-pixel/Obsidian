@@ -1,0 +1,1 @@
+É o número escrito na parte inferior da fração e indica quantas partes o [[Denominador]] é repartido .

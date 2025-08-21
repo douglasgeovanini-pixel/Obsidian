@@ -1,0 +1,1 @@
+São aqueles que definem os mecanismos de armazenamento e transporte entre as diversas fases do [[Ciclo hidrológico]] em nosso planeta, com atenção especial para as áreas continentais.

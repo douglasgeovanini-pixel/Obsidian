@@ -1,0 +1,1 @@
+Definido como o sendo o comportamento da [[Atmosfera]] ao longo do ano (estuda o [[Clima]])

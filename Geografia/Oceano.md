@@ -1,0 +1,1 @@
+Oceano (em grego: Ωκεανός, transl.: "Okeanos") é uma extensão de água salgada que cobre a maior parte da superfície da Terra. O oceano global corresponde a 97% da hidrosfera, cobrindo aproximadamente 71% da superfície da Terra (uma área de 361 milhões de quilômetros quadrados). Mais da metade desta área tem profundidades superiores a 3 mil metros.

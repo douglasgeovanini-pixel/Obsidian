@@ -1,0 +1,3 @@
+A longitude ($\phi$) é uma [[Coordenadas geográficas]] que indica a posição de um ponto em relação ao Meridiano de Greenwich. Em outras palavras é a distância entre um ponto da superfície terrestre e o Meridiano de Greenwich. A longitude varia de 0 a 180° em ambos os hemisférios, leste e oeste, e é determinada com base em linhas imaginárias traçadas na Terra, os meridianos
+
+![[Pasted image 20240925182003.png]]

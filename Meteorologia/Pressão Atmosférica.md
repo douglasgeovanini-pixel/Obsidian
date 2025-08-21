@@ -1,0 +1,1 @@
+É a força exercida pelo peso do ar em determinada área.

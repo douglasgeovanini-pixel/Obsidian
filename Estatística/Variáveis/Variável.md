@@ -1,0 +1,1 @@
+É a característica que vai ser observada, medida ou contada nos elementos que pode variar, ou seja, assumir um valor diferente de elemento para elemento.

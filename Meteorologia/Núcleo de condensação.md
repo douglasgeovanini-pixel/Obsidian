@@ -1,0 +1,1 @@
+Poeira, material particulado, esporo ou até mesmo microrganismos que forneçam superfícies para o vapor de água se condensar na [[Atmosfera]].

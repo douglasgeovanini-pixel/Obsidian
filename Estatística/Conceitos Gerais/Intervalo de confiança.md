@@ -1,0 +1,1 @@
+O intervalo de confiança é uma ferramenta [[estatística]] que indica um intervalo numérico de valores plausíveis para um [[Parâmetros]] populacional, como a [[Média]] ou o [[Desvio padrão]]. Ele é associado a um nível de confiança, que representa a probabilidade de que o intervalo contenha o parâmetro.

@@ -1,0 +1,1 @@
+Experimentos Fatoriais estudam simultaneamente os efeitos de dois ou mais fatores, sendo que cada combinação de níveis dos fatores é chamada de [[Tratamento]]

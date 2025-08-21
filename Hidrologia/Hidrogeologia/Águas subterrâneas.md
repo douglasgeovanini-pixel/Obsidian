@@ -1,0 +1,2 @@
+ Água subterrânea é a porção de água abaixo da superfície ([[Aquífero]]), sendo no [[Lençol freático]] rios e lagos subterrâneos e água contida em poros e fissuras de rochas.
+Uma das vantagens do uso de águas subterrâneas para consumo doméstico, é principalmente, o fato de poder ser captada no meio urbano, no terreno do condomínio privado ou da indústria que abastece. 

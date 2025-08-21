@@ -1,0 +1,1 @@
+Quando o mesmo avaliador repete as mensurações calculamos o chamado “erro intra-avaliador”.

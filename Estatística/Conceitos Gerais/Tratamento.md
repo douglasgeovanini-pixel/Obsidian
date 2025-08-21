@@ -1,0 +1,1 @@
+Tratamento é um [[Fator]], método, elemento ou material cujo efeito desejamos medir ou comparar em um experimento.

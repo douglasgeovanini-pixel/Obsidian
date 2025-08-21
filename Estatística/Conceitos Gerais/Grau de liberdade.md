@@ -1,0 +1,1 @@
+O grau de liberdade é o número de determinações independentes em uma [[Amostra]]. É um estimador do número de categorias independentes em uma experiência estatística. A fórmula para calcular o grau de liberdade é n-1, onde n é o número de elementos na [[amostra]].

@@ -1,0 +1,1 @@
+Unidade experimental ou parcela é a unidade que vai receber o tratamento e fornecer a [[Variável Resposta]]

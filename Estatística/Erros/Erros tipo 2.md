@@ -1,0 +1,1 @@
+Também denominado de erro beta (β) - é cometido quando aceitamos como verdadeira uma hipótese falsa, que deveria ser rejeitada.

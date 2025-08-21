@@ -1,0 +1,2 @@
+é o resumo do [[Tempo]] num determinado lugar para um determinado tempo (descrição [[Média]])
+Refere-se as características da da atmosfera inferidas de observações contínuas de no mínimo 30 anos ([[Normal climatológica]])

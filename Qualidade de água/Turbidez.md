@@ -1,0 +1,1 @@
+Definição: representa o grau de interferência com a passagem da luz através da água, conferindo uma aparência turva à mesma. Constituinte responsável: sólidos em suspensão Origem natural: partículas de rochas, argila; algas e outros microrganismos Origem antropogênica antropogênica: resíduos resíduos industriais, industriais, esgotos esgotos domésticos, domésticos, erosão

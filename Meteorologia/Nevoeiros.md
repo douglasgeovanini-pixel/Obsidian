@@ -1,0 +1,1 @@
+Formados por inúmeras partículas microscópicas (menores que 60 $\mu$m) de água suspensa no ar ([[Atmosfera]]) próximo ao solo. Eles não molham o entorno, apenas contornam o meio. Restringem a visibilidade. A [[Radiação solar]] é o principal mecanismo de dissipação, evaporando as partículas. 

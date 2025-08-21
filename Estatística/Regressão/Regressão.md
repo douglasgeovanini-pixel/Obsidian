@@ -1,0 +1,1 @@
+É uma equação matemática que  descreve o relacionamento entre duas [[Variável]]  a [[Variável independente]] e a [[Variável dependente]] ou [[Variável Resposta]]. Explica e quantifica a forma da relação delas.

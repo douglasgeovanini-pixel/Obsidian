@@ -1,0 +1,1 @@
+tempo até que uma [[Censura na AS]] ocorra

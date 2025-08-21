@@ -1,0 +1,1 @@
+As coordenadas geográficas são um sistema de localização que permite identificar a posição de qualquer ponto na Terra, através de uma grade de linhas imaginárias traçadas sobre o globo terrestre.

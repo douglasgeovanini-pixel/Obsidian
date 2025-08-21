@@ -1,0 +1,1 @@
+Um parcela é considerada totalmente perdida quando todos os indivíduos que a compõem sofrem algum tipo de dado ou prejuízo a sua uniformidade

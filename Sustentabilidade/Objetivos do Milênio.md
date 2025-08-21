@@ -1,0 +1,8 @@
+- Acabar com a fome e a miséria 
+- Oferecer educação básica de qualidade para todos 
+- Promover a igualdade entre os sexos e a autonomia das mulheres 
+- Reduzir a mortalidade infantil 
+- Melhorar a saúde das gestantes 
+- Combater a Aids, a malária e outras doenças 
+- Garantir qualidade de vida e respeito ao meio ambiente 
+- Estabelecer parcerias para o desenvolvimento

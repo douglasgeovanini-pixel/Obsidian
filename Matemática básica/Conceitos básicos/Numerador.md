@@ -1,0 +1,1 @@
+É o número escrito na parte superior de uma fração e indica quantas partes a fração tem.

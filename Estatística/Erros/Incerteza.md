@@ -1,0 +1,1 @@
+É uma representação da estimativa do erro em uma medição.

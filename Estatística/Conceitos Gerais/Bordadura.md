@@ -1,0 +1,1 @@
+É uma parte da parcela usada para evitar a influência dos [[Fator]]es das parcelas vizinhas.

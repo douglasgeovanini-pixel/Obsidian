@@ -1,0 +1,1 @@
+tempo até que uma falha ocorra

@@ -1,0 +1,1 @@
+Os índices são proxies ([[Variável Proxy]]) convenientes. Calculado a partir de faixas de específicas da [[reflectância]],

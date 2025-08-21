@@ -1,0 +1,1 @@
+Significa que os objetos comparados possuem igual natureza e/ou apresenta semelhança de estrutura, função, distribuição

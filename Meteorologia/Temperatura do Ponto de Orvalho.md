@@ -1,0 +1,1 @@
+Gera o [[Orvalho]], é a temperatura até qual o ar, gás ou [[Atmosfera]] deve ser resfriado  para que a condensação da água comece (os vapores de água virem gotículas).

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"3724df925dae8308","type":"text","text":"Planejamento","x":85,"y":-240,"width":250,"height":60},
+		{"id":"f321bf1ded03820d","x":85,"y":30,"width":250,"height":60,"type":"text","text":"Experimento"},
+		{"id":"88254035d490d700","x":-460,"y":30,"width":250,"height":60,"type":"text","text":"[[Teste de hipótese]]"},
+		{"id":"58c7f1db01a6ae2f","x":-460,"y":-240,"width":250,"height":60,"type":"text","text":"Conclusão"},
+		{"id":"8a9008eefd69153d","type":"text","text":"Hipótese","x":-180,"y":-400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"fa23499e7540046c","fromNode":"8a9008eefd69153d","fromSide":"right","toNode":"3724df925dae8308","toSide":"top"},
+		{"id":"f3b82ea32d280623","fromNode":"3724df925dae8308","fromSide":"bottom","toNode":"f321bf1ded03820d","toSide":"top"},
+		{"id":"9ee969f12a5117f8","fromNode":"f321bf1ded03820d","fromSide":"bottom","toNode":"88254035d490d700","toSide":"bottom"},
+		{"id":"d9458ca7626ce6dd","fromNode":"88254035d490d700","fromSide":"top","toNode":"58c7f1db01a6ae2f","toSide":"bottom"},
+		{"id":"93b1207089062e72","fromNode":"58c7f1db01a6ae2f","fromSide":"top","toNode":"8a9008eefd69153d","toSide":"left"}
+	]
+}

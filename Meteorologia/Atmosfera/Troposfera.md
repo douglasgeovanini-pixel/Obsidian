@@ -1,0 +1,2 @@
+Primeiros 10 km verticais da [[atmosfera]], é a camada diretamente em contato com a superfície terrestre. 
+Onde ocorrem os principais fenômenos meteorológicos ( formação de [[Nuvens]], [[Precipitação]], [[furacões]], etc.). A [[temperatura]] cai com a [[altitude]] nessa faixa. Ocorre inversão térmica.

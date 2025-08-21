@@ -1,0 +1,1 @@
+Offer another option, give a person new choice after he negate the first indication or offer

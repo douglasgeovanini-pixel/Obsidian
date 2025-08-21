@@ -1,0 +1,1 @@
+Este princípio consiste em terem várias parcelas com o mesmo tratamento. Assim, procura-se confirmar a resposta que o indivíduo dá a um determinado tratamento. Diminui-se assim o efeito aleatório atrelado a cada indivíduo, diminuindo o valor do [[Resíduo]].

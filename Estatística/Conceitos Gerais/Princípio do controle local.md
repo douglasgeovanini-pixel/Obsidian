@@ -1,0 +1,2 @@
+O controle local consiste na formação de grupos de parcelas o mais homogêneo possível, com o objetivo de reduzir o erro experimental ([[Resíduo]].) É utilizado quando o material experimental é heterogêneo.
+Cada grupo constitui um bloco, sendo que os [[Tratamento]]s devem ser sorteados dentro de cada bloco ([[Princípio de casualização]]).

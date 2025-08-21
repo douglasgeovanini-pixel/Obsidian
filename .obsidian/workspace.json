@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "bcb686136d87085d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9238d4ca574abf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f55446d49e372e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Algebra linear/Vetor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vetor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00743ae0fe2695ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "766f415685bd17db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98d9b9d984c8d89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f0c4fa71fc43a03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1285e2a41c0429f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a529358ec8e95daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6afa754bef7c5288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7cbdbb38e5c224",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vocabulário Ingles/How about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How about"
+            }
+          },
+          {
+            "id": "feb231fd744ac584",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estatística/Conceitos/Variáveis/Variável Proxy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Variável Proxy"
+            }
+          },
+          {
+            "id": "7a0354684a8db2b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98dee6b663e6e35f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algebra/Algebra linear/Vetor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vetor"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "floating": {
+    "id": "f288105ac88f6e6f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "42076be511b8d8b6",
+        "type": "window",
+        "children": [
+          {
+            "id": "21e59a0101036d83",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "56be1094698f1b63",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://obsidian.md/auth?returnto=%2Faccount%2F%23mode%3Dsignup#",
+                    "title": "Account - Obsidian",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Account - Obsidian"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f55446d49e372e41",
+  "lastOpenFiles": [
+    "Algebra/Algebra linear/Vetor.md",
+    "Algebra/Algebra linear/Matriz.md",
+    "Estatística/Análise de Sobrevivência/Análise de Sobrevivência.md",
+    "Algebra/Algebra linear/Escalar.md",
+    "Algebra/Algebra linear/Algebara linear é o estudo de espaços vetoriais de finitas dimensões..md",
+    "Estatística/Análise de Sobrevivência/Censura/Censura Tipo III.md",
+    "Algebra/Algebra linear",
+    "Algebra",
+    "Untitled.md",
+    "Estatística/Análise de Sobrevivência/Λ(t)..md",
+    "Estatística/Análise de Sobrevivência/λ(t).md",
+    "Matemática básica/Alfabeto grego.md",
+    "Matemática básica/Operações matemáticas no latex.md",
+    "Estatística/Análise de Sobrevivência/Censura/Censura Tipo II.md",
+    "Taxa.md",
+    "Estatística/Análise de Sobrevivência/Função de Sobrevivência.md",
+    "Untitled.canvas",
+    "Estatística/Análise de Sobrevivência/PDF AS.md",
+    "Estatística/Conceitos Gerais/Estatísticas.md",
+    "Estatística/Conceitos Gerais/Estatística Inferencial.md",
+    "Estatística/Conceitos Gerais/Estatística descritiva.md",
+    "Estatística.md",
+    "Estatística/Deliniamentos/ANOVA/Experimentos Fatorais na ANOVA.md",
+    "Estatística/Variáveis/Variável qualitativa.md",
+    "Estatística/Variáveis/Variável Proxy.md",
+    "Estatística/Variabilidade/Variância.md",
+    "Estatística/Variabilidade/Variabilidade.md",
+    "Estatística/Variabilidade/Desvio padrão.md",
+    "Estatística/Testes de hipótese/Hipótese Estatística.md",
+    "Estatística/Fluxogramas/Fluxograma Circularidade do método científico.canvas",
+    "Estatística/Análise de Sobrevivência/Termos matemáticos",
+    "Estatística/Análise de Sobrevivência/Censura",
+    "Estatística/Análise de Sobrevivência",
+    "Vocabulário Ingles",
+    "Discussões para analisar/Ciências e Capitalismo",
+    "Estatística/Testes de hipótese",
+    "Estatística/Variabilidade",
+    "Z Imagens/Pasted image 20240926201943.png",
+    "Livros/Romances",
+    "Z Imagens/Pasted image 20240925194606.png",
+    "Z Imagens/Pasted image 20240925194708.png",
+    "Z Imagens/Pasted image 20240925182003.png",
+    "Z Imagens/Pasted image 20240925181526.png",
+    "Z Imagens/Pasted image 20240924211941.png",
+    "Z Imagens/Pasted image 20240924135400.png",
+    "Z Imagens/Pasted image 20240923153932.png",
+    "Z Imagens/Pasted image 20240922200651.png",
+    "Z Imagens/Imagem do WhatsApp de 2024-09-24 à(s) 13.32.59_5639d0dc.jpg",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Sem título.canvas",
+    "Sem título 1.canvas"
+  ]
+}

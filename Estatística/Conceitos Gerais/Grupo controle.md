@@ -1,0 +1,1 @@
+Grupo controle ou testemunha é o conjunto de indivíduos que, ou não rebe o [[Tratamento]], ou recebe um tratamento já conhecido. É usado para comparar as respostas dos grupos tratados.

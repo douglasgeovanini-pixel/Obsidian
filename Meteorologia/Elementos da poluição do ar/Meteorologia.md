@@ -1,0 +1,1 @@
+Meteorologia é definida como da ciência que estuda os fenômenos físicos da [[Atmosfera]] terrestre.

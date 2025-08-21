@@ -1,0 +1,1 @@
+O princípio da casualização consiste na distribuição ao acaso dos tratamentos às parcelas. Assim, estaremos oferecendo a mesma chance a todos os tratamentos de ocuparem determinada posição ou parcela na área experimental. Elimina-se assim a intuição ou desejo involuntário de priorizar determinado(s) [[Tratamento]](s).

@@ -1,0 +1,1 @@
+É variação imprevisíveis e não sistemáticos que ocorrem em medições de cada [[Unidade experimental]]. Surgem em decorrência da não reprodutividade de uma medida. Eles ocorrem em todas as direções e sempre possuem valores diferentes. Podem ser minimizados se um grande número de medidas for realizadas

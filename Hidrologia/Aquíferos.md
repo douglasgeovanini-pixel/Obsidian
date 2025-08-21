@@ -1,0 +1,1 @@
+Um aquífero é uma formação geológica que armazena [[Águas subterrâneas]]  e permite que ela escoe. Para ser considerado um aquífero, a rocha ou sedimento deve ter porosidade e dimensões suficientes para armazenar e escoar a água e estar confinada entre um [[Aquiclude]].

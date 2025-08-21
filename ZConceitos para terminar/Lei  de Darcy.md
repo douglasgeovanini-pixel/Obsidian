@@ -1,0 +1,1 @@
+permite expressar a descarga de água, através da areia, por unidade de superfície, em função da condutividade hidráulica do material arenoso e do gradiente hidráulico 

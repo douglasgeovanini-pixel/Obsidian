@@ -1,0 +1,2 @@
+Recarga, Armazenamento e Descarga em [[Aquíferos]] para começar unidades hidrogeologias reagem diferentemente aos bombeamentos realizados, indicando que não se 
+pode extrapolar o comportamento de uma para outra. E existe a possibilidade de perda de parte da capacidade de armazenamento de água

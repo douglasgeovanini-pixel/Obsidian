@@ -1,0 +1,1 @@
+É o evento onde o vapor de água presente no ar se condensa sobre uma superfície, devido a queda de temperatura.

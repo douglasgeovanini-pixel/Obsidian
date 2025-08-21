@@ -1,0 +1,1 @@
+É o número do centro,  é um valor que representa o centro de um conjunto de dados, dividindo-o em duas partes com a mesma quantidade de elementos.

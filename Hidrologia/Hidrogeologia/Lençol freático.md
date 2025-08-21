@@ -1,0 +1,1 @@
+Freático, do grego, significa raso, ou seja, o primeiro nível de acumulação de água no subsolo. É a zona que limita a zona saturada do subsolo, onde os poros do solo ou da rocha estão totalmente preenchidos por águas, possibilitando a formação de [[Aquíferos]] e [[rios subterrâneos]], ao encontrar uma camada de rochas tão densas que não permitem infiltração da água.

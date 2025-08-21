@@ -1,0 +1,1 @@
+Ainda falta estudos para definir, volte depois quando eu for mais sábio.

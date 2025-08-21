@@ -1,0 +1,1 @@
+Camada com baixíssima permeabilidade, que consideramos impermeável que confina água na forma de [[Aquíferos]].
